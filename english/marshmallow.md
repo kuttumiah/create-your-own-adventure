@@ -63,3 +63,5 @@ Do you:
 [Create a new jacket our of marshmallows?](jacket/marshmallow-jacket.md)
 
 [Go straight to the solution!](http://youtu.be/dQw4w9WgXcQ)
+
+[Google home page](http://www.google.com) to visit Google.
